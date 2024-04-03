@@ -1,0 +1,52 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\mark\\AppData\\Local\\Arduino15\\packages\\adafruit\\hardware\\samd\\1.7.14\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\mark\\AppData\\Local\\Arduino15\\packages\\adafruit\\hardware\\samd\\1.7.14\\variants\\feather_m0_express"
+  },
+  {
+    "Sourcefile": "C:\\Users\\mark\\Desktop\\Synnefa IoT\\synnefa firmware\\farmshield\\build_output\\sketch\\app.ino.cpp",
+    "Include": "OneWire.h",
+    "Includepath": "C:\\Users\\mark\\Documents\\Arduino\\libraries\\OneWire"
+  },
+  {
+    "Sourcefile": "C:\\Users\\mark\\Desktop\\Synnefa IoT\\synnefa firmware\\farmshield\\build_output\\sketch\\app.ino.cpp",
+    "Include": "DallasTemperature.h",
+    "Includepath": "C:\\Users\\mark\\Documents\\Arduino\\libraries\\DallasTemperature"
+  },
+  {
+    "Sourcefile": "C:\\Users\\mark\\Desktop\\Synnefa IoT\\synnefa firmware\\farmshield\\build_output\\sketch\\app.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\mark\\Desktop\\Synnefa IoT\\synnefa firmware\\farmshield\\build_output\\sketch\\src\\libraries\\irrigationValve\\irrigationValve.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\mark\\Desktop\\Synnefa IoT\\synnefa firmware\\farmshield\\build_output\\sketch\\src\\libraries\\libraries.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\mark\\Desktop\\Synnefa IoT\\synnefa firmware\\farmshield\\build_output\\sketch\\src\\libraries\\soilTemp\\soilTemp.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\mark\\Documents\\Arduino\\libraries\\OneWire\\OneWire.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\mark\\Documents\\Arduino\\libraries\\DallasTemperature\\DallasTemperature.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]

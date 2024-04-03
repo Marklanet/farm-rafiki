@@ -1,0 +1,7 @@
+{
+    "configuration": "opt=small,usbstack=arduino,debug=off",
+    "board": "adafruit:samd:adafruit_feather_m0_express",
+    "sketch": "app.ino",
+    "port": "COM47",
+    "output": "../build_output"
+}

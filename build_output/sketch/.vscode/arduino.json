@@ -1,0 +1,8 @@
+#line 1 "C:\\Users\\mark\\Desktop\\Synnefa IoT\\synnefa firmware\\farmshield\\app\\.vscode\\arduino.json"
+{
+    "configuration": "opt=small,usbstack=arduino,debug=off",
+    "board": "adafruit:samd:adafruit_feather_m0_express",
+    "sketch": "app.ino",
+    "port": "COM47",
+    "output": "../build_output"
+}
